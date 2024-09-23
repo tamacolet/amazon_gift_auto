@@ -3,7 +3,7 @@
 
 準備
 13行目
-user_data_dir = r"C:\Users\"ユーザー名\AppData\Local\Google\Chrome\User Data"
+user_data_dir = r"C:\Users\"ユーザー名\AppData\Local\Google\Chrome\User Data"<br>
 ユーザー名を自分のPCのユーザー名に書き換えてください
 
 24行目
